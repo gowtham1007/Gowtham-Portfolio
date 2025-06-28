@@ -1,0 +1,10 @@
+@import url('https://fonts.googleapis.com/css2?family=Pacifico&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Orbitron:wght@600&family=Roboto:wght@400&display=swap');
+
+.font-heading {
+  font-family: 'Orbitron', sans-serif;
+}
+
+.font-paragraph {
+  font-family: 'Roboto', sans-serif;
+}
