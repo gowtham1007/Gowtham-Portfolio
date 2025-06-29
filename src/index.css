@@ -11,3 +11,12 @@ body {
   padding: 0;
   overflow-x: hidden;
 }
+
+/* 
+.gpu-accelerated {
+  transform: translate3d(0, 0, 0);
+  backface-visibility: hidden;
+}
+html {
+  scroll-behavior: smooth; /* Use sparingly */
+/* } */ 

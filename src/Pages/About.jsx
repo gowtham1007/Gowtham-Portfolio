@@ -72,7 +72,7 @@ const About = () => {
           variants={fadeInUp}
           className="text-base md:text-lg text-gray-800 mb-6 leading-loose tracking-wide indent-6 bg-opacity-80 backdrop-blur-md rounded-lg p-4"
         >
-          Hi, I'm Gowtham R, a passionate frontend developer based in Pune. I'm in my final year of Computer Science at{" "}
+          Hi, I'm Gowtham R, a passionate frontend developer based in the Coimbatore. I'm in my final year of Computer Science at{" "}
           <strong>Hindusthan College of Engineering and Technology, Coimbatore</strong>, and I bring over two years of hands-on experience in modern web development.
           <br /><br />
           My expertise includes <strong>HTML, CSS, JavaScript, React.js, Bootstrap, TailwindCSS, and Framer Motion</strong>, and I thrive on building beautiful, responsive user interfaces that are both functional and delightful to use.
