@@ -180,7 +180,7 @@ const About = () => {
 
         {/* 🔗 Portfolio Button */}
         <motion.a
-          href="https://your-portfolio-link.com"  // ⬅️ Replace with your actual portfolio URL
+          href="https://portfolio-gowtham1008.onrender.com"  // ⬅️ Replace with your actual portfolio URL
           target="_blank"
           rel="noopener noreferrer"
           whileHover={{ scale: 1.05 }}
