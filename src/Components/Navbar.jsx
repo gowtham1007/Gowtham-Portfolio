@@ -259,7 +259,7 @@
 import { AnimatePresence, motion } from "framer-motion";
 import { Menu, X } from "lucide-react";
 import { useEffect, useState } from "react";
-
+import Logo from '../assets/name.png';
 const Navbar = () => {
   const [menuOpen, setMenuOpen] = useState(false);
   const [isHeroVisible, setIsHeroVisible] = useState(true);
@@ -313,7 +313,7 @@ const Navbar = () => {
           onClick={(e) => handleLinkClick(e, "#hero")}
         >
           <img
-            src="/src/assets/name.png"
+            src={Logo}
             alt="Gowtham R Logo"
             className="h-12 w-auto"
           />
